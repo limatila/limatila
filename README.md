@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Welcome to Atila Lima's Profile! 💡
+<img height="100" src="https://i.giphy.com/KAq5w47R9rmTuvWOWa.webp" style="max-width: 100%;border-radius: 30%;">
 <!--
 **limatila/limatila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
