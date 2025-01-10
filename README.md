@@ -4,7 +4,7 @@
     # Código python aqui
 </div>
 
-## Tecs and Tools
+## Tecs and Tools <!-- #TODO: adicionar urls  -->
 * What i use:
 <div style="display: flex; justify-content: center; margin: 0 auto 50px; width: 100%; height: 80px; ">
     <div style="display: grid; grid-template-columns: repeat(4, 0.25fr); grid-gap: 10px;" >
