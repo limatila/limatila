@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Youtube Clean Converter](https://github.com/limatila/youtube-clean-converter), a personal project <br>
 - 🌱 I’m currently learning FastAPI, with Docker and AWS<br>
-- ⚡ Fun fact 1: I prefer simplicity over waste of time<br>
+- ⚡ Fun fact 1: I prefer simplicity, but i like to inovate too<br>
 - ⚡ Fun fact 2: I use tabs over spaces <br>
 - ⚡ In my free time i play games and listen to music
 
