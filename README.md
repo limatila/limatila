@@ -10,7 +10,7 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 
-<p align="left" style="margin:0; padding:0;">I'm a FullStack Developer, and student on UNIFAMETRO.<br> I mainly use Python, and i wan't to specialize in tools in that language, but i'm open for new experiences in other technologies! 
+<p align="left" style="margin:0; padding:0;">I'm a FullStack Developer, and student on UNIFAMETRO.<br> I mainly use Python, and i want to specialize in tools in this language, but i'm open for new experiences with other technologies! <br>I'm always looking for the next challenge!
 </p>
 <br>
 
