@@ -1,9 +1,9 @@
 ###
 
-<h1 align="left">Hi, i'm Átila! 👋</h1>
+<h1 align="center">Hi, i'm Átila! 👋</h1>
 
-<div align="left">
-  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
@@ -19,7 +19,12 @@
 - ⚡ Fun fact 1: I prefer simplicity over waste of time<br>
 - ⚡ Fun fact 2: I use tabs over spaces <br>
 - ⚡ In my free time i play games and listen to music
-<table>
+
+###
+
+<h2 align="left" style="margin: 0;">🛠 Language and tools</h2>
+
+<table style="margin-top:0;">
   <tr>
     <td valign="top" width="33%">
       <h3>Frontend</h3>  
@@ -73,11 +78,14 @@
     <td valign="top" width="33%">
       <h3>DevOps</h3>  
       <div align="center">  
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="Vscode" height="50" />
+        </a>
+        <a href="https://www.vim.org/" target="_blank">
+          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" title="Vim" height="50" />
+        </a>
         <a href="https://www.gnu.org/software/bash/" target="_blank">
           <img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" title="Bash" height="50" />
-        </a>
-        <a href="https://www.atlassian.com/software/jira" target="_blank">
-          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" height="50" />
         </a>
         <a href="https://aws.amazon.com/" target="_blank">
           <img style="margin: 10px" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" title="Aws" height="50" />
@@ -85,28 +93,24 @@
         <a href="https://www.docker.com/" target="_blank">
           <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker" height="50" />
         </a>
-        <a href="https://code.visualstudio.com/" target="_blank">
-          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="Vscode" height="50" />
-        </a>
-        <a href="https://www.vim.org/" target="_blank">
-          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" title="Vim" height="50" />
-        </a>
-        <a href="https://github.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="50" />
-        </a>   
         <a href="https://ubuntu.com/" target="_blank">
           <img style="margin: 10px" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" title="Ubuntu" height="50" />
         </a>   
+        <a href="https://git.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="50" />
+        </a>   
+        <a href="https://www.atlassian.com/software/jira" target="_blank">
+          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" height="50" />
+        </a>
       </div>
     </td>
   </tr>
 </table>
 
-###
+---
+<br>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limatila&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=limatila&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-##
