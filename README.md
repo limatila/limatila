@@ -14,7 +14,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [Pipefy Manager API](https://github.com/limatila/pipefy-manager-api), a personal integration project <br>
+- 🔭 I’m currently working on [KeepClicking](https://github.com/limatila/KeepClicking), a voice-oriented detection of mouse commands <br>
 - 🌱 I’m currently learning FastAPI, with Celery and Redis, running on Docker<br>
 - ⚡ Fun fact 1: I prefer simplicity, but i also like to inovate<br>
 - ⚡ Fun fact 2: I prefer tabs over spaces, in 4-space size <br>
