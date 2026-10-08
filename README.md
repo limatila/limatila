@@ -88,7 +88,7 @@
           <img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" title="Bash" height="50" />
         </a>
         <a href="https://aws.amazon.com/" target="_blank">
-          <img style="margin: 10px" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" title="Aws" height="50" />
+          <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="Aws" height="50" />
         </a>
         <a href="https://www.docker.com/" target="_blank">
           <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker" height="50" />
@@ -111,6 +111,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limatila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limatila&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=limatila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limatila&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph"  />
 </div>
